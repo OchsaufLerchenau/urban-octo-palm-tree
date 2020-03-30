@@ -1,6 +1,11 @@
 h1{
     font-size: 60px;
-    font-family: Impact;
+    font-family: 'Pacifico', cursive;
+}
+
+h2{
+    font-size:35px;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 #image {
@@ -11,4 +16,5 @@ h1{
 
 #content{
     text-align: justify;
+    font-family: 'Sen', sans-serif;
 }
