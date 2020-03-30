@@ -18,7 +18,15 @@ h2{
     margin: auto;
 }
 
-#content{
+.content{
     text-align: justify;
     font-family: 'Sen', sans-serif;
+    margin-right: 20px;
+    max-width: 1100px;
+}
+
+#img-caption {
+    padding: 25px;
+    text-align: center;
+    
 }
