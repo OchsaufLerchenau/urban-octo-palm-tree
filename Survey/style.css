@@ -1,0 +1,54 @@
+body {
+    background-image: url(file:///home/admiral/Desktop/Responsive%20Web%20Design%20Challenges/Survey/background.jpg);
+    background-repeat: no-repeat;    
+    max-width: 1600;
+    text-align: center;
+}
+h1 {
+    font-family: Pacifico;
+    size 50px;
+    padding-top: 30px;
+    color: burlywood;
+}
+
+p {
+    font-family: 'Sen', sans-serif;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Sen', sans-serif;
+    color: white;
+}
+
+.jobradio {
+    display: flex;
+    flex-direction: column;  
+}
+
+.foodradio {
+    display: flex;
+    flex-direction: column;   
+}
+
+/*
+[type="radio"] {
+    display: flex;
+    flex-direction: column;
+}
+*/
+
+
+input, textarea, select {
+    background-color: rgb(241, 196, 153);
+    color: black;
+    
+}
+
+
+
+#comments {
+    padding: 20px;
+}
+
