@@ -19,7 +19,7 @@ body::before {
         rgba(58, 58, 158, 0.8),
         rgba(136, 136, 206, 0.7)
       ),*/
-      url(file:///home/admiral/Desktop/Responsive%20Web%20Design%20Challenges/Survey/background.jpg);
+      url(https://ochsauflerchenau.github.io/urban-octo-palm-tree/Survey/background.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
